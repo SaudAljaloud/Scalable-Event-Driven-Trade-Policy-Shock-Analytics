@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+.venv/
+venv/
+ENV/
+.env
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data (keep directory placeholders)
+data/**
+!data/**/.gitkeep
+
+# Outputs
+*.png
+*.pdf
+*.parquet
+*.feather
+*.pkl
+*.joblib
+logs/
