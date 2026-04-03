@@ -1,11 +1,3 @@
-# TPNS-Transmission
-
-## Scalable Event-Driven Trade Policy Shock Analytics
-
-### A Big Data Architecture for Cross-Asset Volatility Intelligence
-
-------------------------------------------------------------------------
-
 ## Overview
 
 TPNS-Transmission implements a scalable, event-driven big data
@@ -13,24 +5,6 @@ architecture for analyzing trade policy shocks and their cross-asset
 volatility transmission effects.
 
 This repository accompanies the manuscript:
-
-**Scalable Event-Driven Trade Policy Shock Analytics: A Big Data
-Architecture for Cross-Asset Volatility Intelligence**\
-Submitted to *Big Data and Cognitive Computing (BDCC)*.
-
-The framework enables structured ingestion of policy events, systematic
-volatility estimation, and scalable cross-asset transmission analysis
-suitable for macro-financial research and systemic risk monitoring.
-
-------------------------------------------------------------------------
-
-## Research Contributions
-
--   Event-driven macro-financial shock analytics architecture\
--   Modular trade policy shock processing pipeline\
--   Cross-asset volatility transmission measurement framework\
--   Scalable big data design for time-series computation\
--   Reproducible research implementation
 
 ------------------------------------------------------------------------
 
@@ -149,19 +123,6 @@ Recommended environment: Python 3.10+
 ``` bash
 pytest tests/
 ```
-
-------------------------------------------------------------------------
-
-## Citation
-
-If you use this framework in academic work, please cite:
-
-Author(s). (2026).\
-*Scalable Event-Driven Trade Policy Shock Analytics:\
-A Big Data Architecture for Cross-Asset Volatility Intelligence.*\
-Big Data and Cognitive Computing.
-
-(Citation details will be updated upon publication.)
 
 ------------------------------------------------------------------------
 
